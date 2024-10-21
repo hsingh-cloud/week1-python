@@ -7,3 +7,7 @@
 fave_language = 'Python'
 
 print('It\'s the best to code in ' + fave_language + '!\nI\'m still learning.')
+
+
+if 1 == 2:
+    print('true')
