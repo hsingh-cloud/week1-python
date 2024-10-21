@@ -1,0 +1,9 @@
+# concatenation example from freecodecamp
+# fave_language = "Python"
+# print("I like coding in " + fave_language + " the most")
+#output
+#I like coding in Python the most
+
+fave_language = 'Python'
+
+print('It\'s the best to code in ' + fave_language + '!\nI\'m still learning.')
