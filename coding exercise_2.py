@@ -30,7 +30,7 @@ print('Your income is', str(income), 'and you would pay', str(lowtaxland_result)
       'income tax in Lowtaxland or', str(ripoffland_result), 'income tax in Ripoffland. You would save', str(difference_tax_amount), 'by paying taxes in Lowtaxland!')
 
 
-# Solution Answer per Udemy - Here's a sample solution to Coding Exercise 2:
+### Solution Answer per Udemy - Here's a sample solution to Coding Exercise 2:
 
 income = 250_000
 lowtaxland_rate = 0.05
